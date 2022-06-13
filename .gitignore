@@ -1,0 +1,4 @@
+# ignoring the node_modules to upload my github
+/node_modules
+# ignoring the .env file that contains my import api keys
+.env
